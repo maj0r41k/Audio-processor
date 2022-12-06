@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./FilterType.css";
 
 const FilterType = ({params, t_id, t_param_name, t_label}) => {
-	const [currentValue, setCurrentValue] = useState(0);
+	const [currentValue, setCurrentValue] = useState(2);
 
 	const ft_id = Number(t_id);
 
@@ -30,7 +30,6 @@ const FilterType = ({params, t_id, t_param_name, t_label}) => {
 						<option value={3}>LOWSHELL</option>
 						<option value={4}>HIGHSHELL</option>
 						<option value={5}>DISABLE</option>
-						<option value={6}>TOTAL_REGIMES</option>
 					</select>
 				</tr>
 			</table>

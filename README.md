@@ -6,10 +6,13 @@ Requirements:
 2) CMake 3.12+
 3) NPM - node package manager
 4) GCC (Linux)
+5) Gnome terminal
 
 How to run:
 -
 1) Run run.sh script
+
+Note: In UI use PEAK to change frequency response. If you use LOWPASS, all frequencies above will be cut and you changes will be lost, same thing with HIGHPASS, all frequencies below will be cut.
 
 If you want to change another file: you need to add your file by path:  
 -
