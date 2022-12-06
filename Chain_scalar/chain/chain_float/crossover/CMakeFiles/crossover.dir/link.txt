@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcrossover.a  CMakeFiles/crossover.dir/src/crossover_control.c.o CMakeFiles/crossover.dir/src/crossover_process.c.o
+/usr/bin/ranlib libcrossover.a

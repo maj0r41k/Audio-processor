@@ -1,0 +1,2 @@
+/usr/bin/ar qc libequalizer.a  CMakeFiles/equalizer.dir/src/equalizer_control.c.o CMakeFiles/equalizer.dir/src/equalizer_process.c.o
+/usr/bin/ranlib libequalizer.a

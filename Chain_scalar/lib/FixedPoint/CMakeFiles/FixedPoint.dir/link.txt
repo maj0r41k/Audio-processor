@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFixedPoint.a  CMakeFiles/FixedPoint.dir/src/fixedpoint.c.o CMakeFiles/FixedPoint.dir/src/tables.c.o
+/usr/bin/ranlib libFixedPoint.a

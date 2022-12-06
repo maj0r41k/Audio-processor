@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcompressor_4ch.a  CMakeFiles/compressor_4ch.dir/src/compressor_4ch_control.c.o CMakeFiles/compressor_4ch.dir/src/compressor_4ch_process.c.o
+/usr/bin/ranlib libcompressor_4ch.a
